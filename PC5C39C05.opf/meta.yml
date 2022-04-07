@@ -1,0 +1,33 @@
+id: PC5C39C05
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13310
+  instance_id: http://purl.bdrc.io/resource/IE3JT13310
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལུང་ཆོས་མཐའ་དག་གི་བདུད་རྩིའི་སྙིང་པོར་གྱུར་པ་གང་ལ་ལྡན་པའི་གཞི་རྗེ་བཙུན་མཆོག་ཏུ་དགྱེས་པར་ངལ་གསོ་བའི་ཡོངས་འདུ་ས་བརྟོལ་གྱི་ལྗོན་པ་རྒྱས་པ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P385
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    8e3fb4d4c69f41abbda6ba63667b356d:
+      title: ༈གཉིས་པ་ཐབས་སྦྱོར་བཞི་ལ་གཉིས་ཏེ།དབང་དུ་བྱེད་པ་རྒྱུ་འབྲས་དང༌།བརྟན་པ་རྒྱུ་འབྲས་སོ།་།དང་པོ་ལ།དབང་དུ་བྱེད་པའི་རྒྱུ་རྣམ་ཀུན་དང༌།དབང་
+      volume_number: 2
+      base_file: UT3JT13310_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VL0CDB680D59F8EDE3
+      image_group: null
+      quality: null
+    1bd3abfbcf89477b8937f884a7defb05:
+      title: ༄༅།་།ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལུང་ཆོས་མཐའ་དག་གི་
+      volume_number: 1
+      base_file: UT3JT13310_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD992FFC6C7DD6209
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-22T11:19:45.627974'
+last_modified_at: '2021-12-22T11:19:45.627981'
